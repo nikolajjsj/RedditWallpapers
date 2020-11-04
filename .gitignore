@@ -1,0 +1,8 @@
+# Python related
+__pycache__
+
+# MacOS related
+.DS_store
+
+# API keys
+secrets.py
